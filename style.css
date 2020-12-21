@@ -1,6 +1,3 @@
-* {
-  margin: 0;
-}
 .nav-wrapper {
   text-transform: capitalize;
 }
@@ -12,8 +9,29 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: #ffffff;
 }
-.showcase .my-btn{
-    margin: 20px 0;
+.showcase .my-btn {
+  margin: 20px 0;
+}
+.search-container{
+    padding: 15px 0;
+}
+.search-input{
+    width: 90% !important;
+    padding: 6px !important;
+}
+.card-section h4{
+    margin-top: 0px;
+}
+.section-icons i{
+    margin: 0px 7px;
+}
+.section.contact h5{
+    margin-bottom: 30px !important;
+}
+form{
+    padding: 20px;
+}
+footer{
+    padding: 15px 0;
 }
